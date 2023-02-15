@@ -1,0 +1,593 @@
+<resources>
+    <string name="app_name">Apna Career</string>
+    <string name="graduation"><B>Graduation </B> is the successful completion of a course of study at a university, college for which you receive a degree or diploma.</string>
+    <string name="upsc"><B>UPSC</B> is a Constitutional Body under Article 315-323 Part XIV Chapter II of the Constitution of India to discharge their duties, functions and obligations assigned under Article 320. The UPSC  conducts various examinations  in accordance with the Rules of examination as notified by the Government of India in a just, fair and impartial manner  for making a merit based selection and recommendation of candidates for various Group A and Group B Services  of the Govt. of India.  Nationality for IAS exam: Must be a citizen of India, a person of Indian origin or a subject of Nepal, Bhutan or Tibet settled in India before 1st January 1962.
+
+<B>Educational Qualification:</B> Candidate must hold a Graduate Degree from a recognised University.
+<B>Age Limit:</B> Candidate must be a minimum of 21 years of age and must not be more than 32 years of age.
+
+<B>Category wise UPSC CSE age limit, relaxation and maximum attempts-</B>
+<B>General Category and EWS:</B> 32 years; 6 attempts.
+<B>OBC (with certificate):</B> 32 years + 3 years; 9 attempts.
+<b>SC/ST:</b> 32 years + 5 years; unlimited attempts.
+<b>Physically Disabled:</b> 32 years + 10 years; Gen/OBC/Person with Benchmark Disability(EWS category)- 9 attempts and SC/ST unlimited attempts.
+<b>Jammu and Kashmir Domicile:</b> 32 years + 5 years + (3 years, if OBC OR 5 Years, if SC/ST); Number of attempts depends on the reserved category.
+<b>Disabled and discharged Defence service personnel:</b> 32 years + 3 years + (3 years, if Gen/OBC OR 5 years, if SC/ST)</string>
+    <string name="SSC"><b>Staff Selection Commission (SSC)</b>conducts an open competitive Combined Higher Secondary Level Examination (CHSL) for filling up the following posts in the various Ministries, Departments, and Offices of the Government of India:
+
+<b>Various Posts for which SSC is conducted:</b>
+Lower Divisional Clerk (LDC)
+Junior Secretariat Assistant (JSA)
+Postal Assistant (PA)
+Sorting Assistant (SA)
+Data Entry Operator (DEO)
+Data Entry Operator Grade A (DEO Grade A)
+Junior Engineer
+Scientific Assistant
+Inspector in Income Tax
+Inspector in Central Excise
+Assistant Enforcement Officer
+Assistant in Central Vigilance
+
+<b>Eligibility Criteria:</b>
+(i)Age limit 18-27 years. But, there is relaxation in age limits for the reserved category candidates.
+(ii) For the positions of LDC, JSA, PA, SA, and DEO, you need to have passed the 12th Class or equivalent Board Examination in any stream.
+(iii) For the position of DEO A Grade, you need to have passed the 12th Class or equivalent Board Examination in Science stream with Mathematics as a subject.
+</string>
+    <string name="Defence"><b>Defence and Armed Forces</b> is highly prestigious for an individual to serve the nation by being part of the Indian Armed Forces. More than 5 lakhs students appear every year for various exams conducted by the UPSC to join the most coveted and respectable jobs in India. Through these defence exams, the candidates are selected for Indian Defence Academies like Indian Military Academy (IMA), Dehradun, Indian Naval Academy (INA), Ezhimala, Air Force Academy (AFA), Dundigal, Officer Trainer Academy (OTA) in Chennai and Gaya, etc
+
+TGC ( Engineering Graduates Students)
+SSC (Short Service Commission) Technical
+SSC (Short Service Commission) Tech/Non-technical
+University Entry Scheme (SSC).
+Short Service Commission – Submarine.
+Special Naval Architect Entry Scheme – SNAES.
+
+<b>Various Exams for Defence:</b>
+UPSC NDA/NA
+UPSC CDS(Combined Defence Services)
+UPSC CAPF(Central Armed Police Forces)
+AFCAT(Air Force Common Admission Test)
+IAF(Indian Air Force)
+ICG(Indian Coast Guard)
+
+<b>Eligibility Criteria:</b>
+(i)Age Limit: 16.5 to 19.5 years
+(ii)For those opting for the Indian Army wing at NDA: 10+2 in any stream and with any subjects.
+(iii)For those opting for the Indian Air Force and Indian Navy Wing at the NDA and for the Cadet Entry at Naval Academy: 10+2 in any Science stream with Physics and Mathematics.</string>
+    <string name="railway"><b>Railway Recruitment Board (RRB)</b>conducts an open competitive Computer Based Test (CBT) for filling up the following post:
+Junior Clerk-cum-Typist
+Accounts Clerk-cum-Typist
+Junior Time Keeper
+Trains Clerk
+Commercial-cum-Ticket Clerk
+Junior Stenographer Hindi
+Junior Stenographer English
+
+<b>Eligibility Criteria</b>:
+<b>(i)Age limit</b> 18-31 years
+
+<b>(ii)For Junior Clerk-cum-Typist, Accounts Clerk-cum-Typist, Junior Time Keeper:</b> 12th Board Examination passed in any stream with at least 50% marks. Typing skill in English / Hindi is required.
+
+<b>(iii)For Trains Clerk and Commercial-cum-Ticket Clerk:</b> 12th Board Examination passed in any stream with at least 50% marks.
+
+<b>(iv)Junior Stenographer Hindi and Junior Stenographer English:</b> 12th Board examination. Shorthand speed of 80 words per minute for a duration of 10 minutes with a transcription time of 50 minutes is essential.</string>
+    <string name="NABARD"><b>NABARD</b> is basically is a financial institution for Rural and agriculture Development in India. Here the main concept of the government is to work for rural development and agriculture.
+They take the help of advanced technology, security, financial, innovations, and try to develop the rural and agriculture department.
+National Bank for Agriculture And Rural Development always comes with job openings. Such as Assistant Officers, Managers, Assistant Officers, etc.
+
+NABARD recruits for various posts:
+Medical Writer
+Clinical Research Associate
+Drug Safety Associate
+Drug Inspector
+Sales/Marketing Executive
+Pharmaceutical Scientist
+Formulation Development Associate
+QA/QC Associate
+
+<b>Eligibility Criteria:</b>
+(i)Bachelor Degree in the concerned stream with 60% marks (55% for SC/PWD) in aggregate OR Post Graduation in the concerned stream with 55% marks (50% for SC/PWBD) in aggregate
+(ii)Age Limit:25-40
+(iii)There is no restriction on number of attempts.
+    </string>
+    <string name="agriculture">The agriculture sector forms the backbone of the Indian Economy. The powerful sentiments related to feeding the entire nation, make working in this sector even more alluring. So, if you are passionate about improving this sector, then you have come to the right place. There are many Govt. jobs available in the Agriculture sector.
+<b>Various posts in agriculture:</b>
+Forest Officer.
+Researcher.
+Lab Assistants.
+Technologist.
+Agriculture Junior Engineer.
+Agriculture Field Officer.
+Agriculture Development Officer.
+Agriculture Graduate Trainee.
+Agriculture Forest Officer.
+Agricultural Scientists Recruitment Board (ASRB) - Agricultural Research Service
+Agricultural Field Officer
+Agriculture Officer
+Botanist
+Farm Manager
+Agromet Observer
+Subject Matter Specialist
+Agricultural Faculty Posts
+
+<b>Eligibilty Criteria</b>
+B.Sc. Degree or Diploma in Horticulture / Agriculture or relevant discipline.
+B.E. / B.Tech engineering graduate in Agriculture engineering or relevant engineering disciplines.
+Post Graduate / Ph.D in Agriculture or Horticulture or relevant area.
+    </string>
+    <string name="TET1"><b>Teacher Eligibility Test (TET)</b> is the minimum qualification required in India for a person to be eligible for an appointment as a teacher in the school in any of the schools. As per the Right to Education (RTE) Act, a candidate should pass the TET exam which is conducted by the appropriate Government in accordance with the guidelines framed by the National Council for Teacher Education. The TET 2022 is conducted at the central level and state level.
+ At the national level, the Central Board of Secondary Education (CBSE) conducts the Central Teacher Eligibility Test (CTET) and at the state level, various states hold the TETs every year such as UPTET, REET, TS TET, TNTET, MAHA TET, OTET, HP TET, KTET, and others.
+
+<b>PRT Teacher</b> (Below Class 5 in Government Schools like NVS and KV)
+<b>TGT Teacher</b> (From Class 5 to 10)
+<b>PGT Teacher </b>(Class 10 and Onwards)
+<b>Lecturers/Professors/Assistant Professors</b>
+
+<b>Eligibilty Criteria:</b>
+(i)For PRT Teacher,candidate must have  Senior Secondary (or it is equivalent) with at least 50% marks and 2-year Diploma in Elementary Education.
+(ii)For TGT Teacher, candidate must have completed graduation degree with 50% marks in relevant field and having a B.Ed degree.
+(iii)For PGT Teacher, it is must to have a master degree with atleast 55% marks and experience more than 3 years.
+</string>
+    <string name="Banking1"><b>State Bank of India</b> conducts various examination to recruit Probationary Officer, Junior Associate (Clerk), Specialist Officer, etc in various branches of SBI. There is a separate examination for all the recruitment. Here is the exam that are being conducted by SBI:
+SBI PO
+SBI SO
+SBI Junior Associate (Clerk):
+
+<b>Institute of Banking Personnel Selection (IBPS):</b>
+IBPS is one of the largest recruiting body that conducts various examination to recruit eligible candidates for the various Public Sector Banks and Regional Banks. Clerk, Probationary Officer, Assistant, etc are the post for which IBPS conducts examination.
+IBPS PO
+IBPS SO
+IBPS Clerk
+IBPS RRB
+
+<b>Eligibilty Criteria:</b>
+(i)Candidates must hold a Graduation degree in any discipline from a recognised University or any equivalent qualification which is recognised by the Central Government. They should ensure that the passing certificate should indicate the degree pass date in it.
+(ii)Prospective applicants who are in the Final Year/ Semester of their Graduation may also apply on a provisional basis. However, this is subject to the condition that at the time of the interview, they will need to produce proof that they have passed the graduation examination.
+(iii)Age Limit:21-30 years
+
+</string>
+    <string name="government1"><b>Government Job</b> is a particular post in any government department/organisation doing some action on behalf of the government. Thus a post doing execution on behalf of the government is a government job
+</string>
+    <string name="Law"><b>Law</b> Jobs in Government Sector fresher and experience candidates. Eligible Law Graduates, Lawyers, LLB, Bachelor of Law (BL), Master Degree in Laws candidates are get your qualification related government jobs in High Courts, District Courts, Public Sector Organizations, Central / State Government Officers and Legal service vacancies. Indian Judiciary is most important administration of the country. The Judiciary of India is different types of courts - Supreme Court of India at the top, followed by High Courts, District Courts, Magistrates and Civil Judge (Junior Division).
+
+<b>Various Posts In Law</b>
+Legal Assistants
+Legal Officer
+Legal Advisor
+Insurance Law Officer
+Judicial Services
+District Judge
+High Court Judge
+Junior Consultant (Legal)
+Young Professional (Legal)
+Manager Level - Legal Posts
+        
+<b>Eligibilty Criteria</b> 
+Bachelor Degree in Law (BL)
+Legum Baccalaureus or LLB (Bachelor of Legislative Law)
+Master Degree in Law (M.L.)
+After 12th class - BA LLB, BBA LLB
+    </string>
+    <string name="psu"><b>PSU means Public Sector Undertaking.</b> A Central Government or State Government owned companies / organizations are called as PSU or Government Company. If Central or State Govt and partly by one or more state governments have more than 51% Shares in any company, this type of company are control and organized by Government.
+Public Sector Government companies offers various level of vacancies on Regular and contractual basis. The Recruitment based on GATE qualification, but some posts are not need for GATE Exam eligibility. Government of India and State Government owned, undertaking companies are called Public Sector Undertaking (PSU) or a Public Sector Enterprise. PSU Government Jobs 2022 for Graduates, Engineers without GATE, Diploma Holders, ITI and 10+2 passed Indian Citizens. Nearly 300 central public sector enterprises (CPSEs), 8 Maharatnas, 16 Navratnas and 74 Mini-ratnas ranked public sector companies available in all over India.
+
+<b>Various PSU which hires for various posts</b>
+Oil and Natural Gas Corporation (ONGC)
+Gas Authority of India Limited (GAIL)
+Bharat Heavy Electricals Limited (BHEL)
+Indian Oil Corporation Limited (IOCL)
+Steel Authority of India Limited (SAIL)
+Coal India Limited (CIL)
+National Thermal Power Corporation (NTPC)
+Bharat Petroleum Corporation Limited (BPCL)
+Hindustan Petroleum Corporation Limited (HPCL)
+Bharat Electronics Limited (BEL)
+Neyveli Lignite Corporation Limited (NLC)
+Container Corporation of India (CONCOR)m Mahanagar Telephone Nigam Limited (MTNL)
+Engineers India Limited (EIL)
+Hindustan Aeronautics Limited (HAL)
+Power Grid Corporation of India Limited (PGCIL)
+Power Finance Corporation (PFC)
+National Aluminium Company (NALCO)
+National Buildings Construction Corporation (NBCC)
+National Mineral Development Corporation (NMDC)
+Oil India Limited (OIL)
+Shipping Corporation of India (SCI)
+Rashtriya Ispat Nigam Limited (RINL)
+Rural Electrification Corporation (REC)
+
+<b>Various Posts in PSU</b>
+Engineering posts: Junior Engineer, Assistant Engineers, Executive Trainees, Diploma Apprentices, Diploma Engineers.
+Degree posts: Assistants, Officers, Consultants, Scientist, Scientific, Technical and Non Technical Posts.
+ITI Posts: Apprentices, Technician, ITI trade positions.
+Medical Posts: Doctors, Medical Officers, Pharmacist, Nurses etc.
+Management Posts: Manager Level posts, Finance, Human Resources, Accounts etc.
+
+<b>Eligibility Criteria</b>
+Minimum 18 years old Indian citizens are eligible to apply for PSU Jobs / Careers. The PSU Jobs qualifications - 10th Pass, 10+2 Pass, ITI, Diploma, Engineering Degree, Graduates and Post Graduates.
+    </string>
+    <string name="B.Tech"><b>Bachelor of Technology (BTech)</b> is a <b>professional undergraduate engineering degree</b> programme awarded to candidates after they complete four years of study in the field. Engineering is one of the most popular courses in India and there are many institutes that offer the course to aspiring students.
+For admissions, the most common BTech entrance examinations are JEE Main and JEE Advanced. Along with these national level entrance examinations, there are many state and private level entrance examinations that the students can attempt for admission to the course.
+
+<b>Specialisations in B.tech</b>
+Aeronautical Engineering
+Industrial Engineering
+Aerospace Engineering
+Marine Engineering
+Automobile Engineering
+Mechanical Engineering
+Biomedical Engineering
+Mechatronics Engineering
+Biotechnology Engineering
+Metallurgical Engineering
+Ceramic Engineering
+Mining Engineering
+Chemical Engineering
+Petroleum Engineering
+Civil Engineering
+Power Engineering
+Communications Engineering
+Production Engineering
+Computer Science Engineering
+Robotics Engineering
+Construction Engineering
+Structural Engineering
+Electrical Engineering
+Telecommunication Engineering
+Electronics and Communication Engineering
+Textile Engineering
+Electronics Engineering
+Tool Engineering
+Transportation Engineering
+
+<b>Eligibilty Criteria</b>
+The basic eligibility criteria for BTech is class 12 with Physics, Chemistry and Mathematics. However, there are additional criteria in every entrance exam and institute. Some of the institutes also conduct admission to their courses on merit basis i.e. based on marks scored by candidates in their class 12 board exams.
+
+<b>Various Entrance Exam for B.Tech</b>
+In India, all technical programmes such as BTech, fall under the regulatory purview of the All India Council for Technical Education (AICTE) and the National Board of Accreditation (NBA). Admissions to B.Tech programmes take place through national level/state-level/institute-level engineering entrance examinations. The top five engineering entrance exams taken by a large number of students each year are:
+
+<b>JEE Main</b> - Conducted by National Testing Agency, JEE Main is the entrance examination for BTech admissions into NITs, IIITs and GFTIs. JEE Main consists of two papers - Paper 1 (BE/BTech) and Paper 2 (BArch/BPlan)
+<b>JEE Advanced</b>- It is a national level entrance examination for BTech admissions into IITs. Students have to qualify for JEE Main to attempt JEE Advanced.
+<b>VITEEE</b> - One of the most popular private institute entrance examinations, VITEEE offers admissions into the BTech courses offered by Vellore Institute of Technology (VIT) and its various campuses.
+<b>MHT CET</b> - Through MHT CET, students can apply for BTech admissions into the BTech institutes of the Maharashtra state.
+<b>TS EAMCET</b> - TS EAMCET offers admissions to students in the Telangana state institutes on the basis of their scores in the entrance examination.
+    </string>
+    <string name="B.Arch"><b>B.Arch (Bachelor of Architecture)</b> is an undergraduate degree in the field of architecture. This five-year full-time programme is a blend of theoretical and practical knowledge for students to learn the art of planning, designing and constructing physical structures of various kinds. From ideating to mapping and overseeing the construction, a qualified architect is involved at every stage of any construction project.
+
+<b>Specializations in B.Arch</b>
+B.Arch Architecture In Engineering course
+B.Arch Architecture In History Course
+B.Arch Architecture In Design Course
+B.Arch Interior Architecture Course
+B.Arch Urban Planning Course
+B.Arch Landscape Architecture Course
+
+<b>Eligibilty Criteria</b>
+Candidates must have passed their 10+2 examination or equivalent with Mathematics as one of the subjects.
+They must have secured a minimum of 50% marks (45% marks for reserved category) in 10+2 or
+Should have passed 10+3 Diploma (any stream) recognised by Central/State governments with 50% aggregate marks or
+Should have completed their International Baccalaureate Diploma, after 10 years of schooling, with not less than 50% marks in aggregate and with Mathematics as compulsory subject of examination.
+     
+<b>Entrance Exams for B.Arch</b>
+<b>National Aptitude Test in Architecture (NATA)</b> - One of the most popular architecture exams in India, NATA is conducted twice annually to give the eligibility factor for BArch admissions into the colleges. However, no common counselling is not conducted and the candidates will have to individually apply to their preferred colleges.
+<b>JEE Main Paper 2</b>- Conducted by the National Testing Agency (NTA), JEE Main Paper 2 is the gateway for BArch admissions into NITs, IIITs and GFTIs and also various private colleges.
+<b>Architecture Aptitude Test (AAT)</b> - To be eligible for AAT, the candidates will have to qualify JEE Advanced 2021. Qualified candidates will have the chance for admission into the BArch courses offered by IITs.
+
+
+
+ </string>
+    <string name="BA"><b>Bachelor of Arts or BA</b> is an undergraduate program in arts. There are various disciplines such as English, Hindi, History, Journalism and Psychology in which BA can be pursued. The course can be pursued right after passing class 12th in India. Usually, a three-year course Arts programme is offered by colleges under various streams such as Design, Mass Communication,Hospitality. BA (Hons) or BA course can be pursued in a full-time, part-time, correspondence or distance education mode.
+
+<b>Specializations in B.A</b>
+Economics
+Political Science
+History
+Psychology
+Communication Studies
+Philosophy
+Archaeology
+Sociology
+Religious Studies
+
+<b>Eligibility Criteria </b>
+Aspirants must have completed their 10+2 from a recognised board.
+Some colleges also specify that aspirants should have secured a minimum of 50% aggregate marks at 10+2 level.
+Some colleges also offer 5% marks relaxation in this criteria for SC/ ST candidates.
+
+<b>Entrance Exams</b>
+BHU UET	
+JNUEE
+DUET	
+TISSBAT
+PUBDET	
+NIMSEE
+IPU CET
+    </string>
+    <string name="bsc"><b>BSc or Bachelor of Science</b> is an undergraduate degree of three years duration which is universally offered across institutes and universities across India. BSc is one of the most popular courses opted by students who have a flair for scientific aptitude and zeal for research-oriented and calculative approaches based on a proven systematic method. Science is all about experimentation, research and discovery. A BSc degree is a culmination of both theoretical and practical ways of learning. Pursuing a BSc degree also opens up multiple avenues for a student and he/she can either opt for higher studies in Science or any other discipline which may be related or different from the subjects studied during graduation.
+
+<b>Specialisations in B.Sc</b>
+BSc Physics
+BSc Chemistry
+BSc Biology
+BSc Mathematics
+BSc IT (Information Technology)
+BSc Computer Science
+BSc Microbiology
+BSc Biotechnology
+BSc Biochemistry
+BSc Botany
+BSc Zoology
+BSc Nursing
+BSc Fashion Design
+BSc Animation
+BSc Hospitality
+BSc Agriculture
+BSc Geography
+BSc Economics
+
+<b>Eligibilty Criteria</b>
+Candidates should clear Class 12 in the Science stream with a minimum of 50 per cent to 60 per cent aggregate from a recognised board. It may be noted that the minimum percentage required for BSc admissions may vary depending on the policy of the university/ college in which a candidate is applying.
+Candidates must have studied Physics, Chemistry and Mathematics (PCM) or Physics, Chemistry and Biology as core subject combinations.
+Generally, there is no age limit for pursuing BSc unless specified by an institutes eligibility criteria.
+
+<b>Entrance Exams</b>
+NEST(National Entrance Screening Test)
+PUBDET
+UPCATET        
+IISER
+ICAR
+JET        
+    </string>
+    <string name="BJMC"><b>BJMC (Bachelor of Journalism and Mass Communication)</b> is a three-year duration undergraduate degree course for candidates who wish to build their careers in the field of Journalism and Mass Communication. After successfully completing the course candidates are able to develop as well as refine their skills in gathering, transmitting, and delivering information to a large audience. Career opportunities for students in the field of Mass Communication are very high. Candidates who successfully complete BJMC can choose to work for news channels, newspapers, publishing houses, television, radio, internet, etc and earn a healthy remuneration.
+
+<b>Specializations in BJMC</b>
+Electronic Media
+Print Media
+Sound Editing
+Film Making
+
+<b>Eligibilty Criteria</b>
+Candidates should complete class 12 in any stream from a recognised board.
+Candidates should score a minimum of 50% - 60% marks in class 12.
+Candidates should be minimum of 17 years of age.
+        
+<b>Entrance Exams</b>        
+LPU NEST
+IPUCET
+DUET
+CUET UG
+</string>
+    <string name="BBA"><b>BBA (Bachelor of Business Administration) BBA</b> is one of the most popular and sought-after bachelor degree programmes pursued by students after Class 12. The BBA course is the gateway to a plethora of job opportunities in numerous sectors such as Sales, Marketing, Education, Finance, Sales, and Government to name a few. BBA is a three-year professional undergraduate course in Business Management. The course is open to students from all three streams i.e., Science, Arts and Commerce. The BBA course offers knowledge and training in management and leadership skills to prepare them for managerial roles and entrepreneurship
+
+<b>Specialisations in BBA</b>
+BBA Finance
+BBA in Banking and Insurance
+BBA Information Technology
+BBA Human Resource
+BBA Marketing
+BBA Communication and Media Management
+BBA Foreign Trade
+BBA Hospitality and Hotel Management
+BBA Hospital and Healthcare Management
+
+<b>Eligibilty Criteria</b>
+Aspirants who have completed their Class 12 in any stream from a recognised educational board or university can pursue BBA.
+The candidates must have attained a minimum of 50% aggregate and above in Class 12.
+
+<b>Entrance Exams </b>
+SET
+DU JAT
+IPMAT
+AIMA UGAT
+NMIMS NPAT
+FEAT
+IPM Aptitude Test
+    </string>
+    <string name="BPharma"><b>Bachelor of Pharmacy</b> is a degree that is pursued by candidates interested to build a career in the domain of Pharmacy. Whenever a cure for a disease is found, the Pharmacy has a really big role in researching and testing it before it is available for treatment. Medicine includes diagnosing the cause of disease and then, treatment to eradicate the disease or to prevent it from growing in the environment; Pharmacists have become an integral part of the healthcare industry due to this and making the sector a success. It is a major segment of the healthcare industry contributing to research in medicinal drugs as well as the development, manufacturing, and supply of medications in the market.
+
+<b>Specializations in B.Pharmacy</b>
+Pharmaceutical Chemistry
+Pharmaceutical Technology
+Pharmaceutical Analysis and Quality Assurance
+Clinical Pharmacy
+Pharmaceutics
+Pharmacy Practice
+Pharmacognosy
+Pharmacology
+Pharmaceutical Marketing Management
+Quality Assurance
+Phytopharmaceuticals and Natural products
+Drug Discovery and Development
+Medicinal Chemistry
+Bulk Drugs
+Drug Regulatory Affairs
+Biopharmaceutics
+Industrial Pharmacy
+
+<b>Eligibilty Criteria</b>
+The B.Pharmacy eligibility states that students need to have passed 10+2 with a minimum of 50% aggregate marks, and also ensure that they give the entrance exams conducted by the colleges. The B.Pharmacy entrance exams are conducted at both the national and college levels. B.Pharmacy age limit is around 25 years old and the minimum age to apply for the course is 17 years.
+
+<b>Entrance Exams</b>
+BITSAT
+UPSEE
+MAH CET
+WBJEE
+KCET
+AP EAMCET
+TS EAMCET
+GUJCET
+GITAM GOT
+GCET
+HPCET
+OJEE
+GPAT
+    </string>
+    <string name="BCA"> <b>BCA (Bachelors in Computer Application)</b> BCA is a 3-year undergraduate degree programme that focusses on knowledge on the basics of computer application and software development. A BCA degree is considered to be at par with a BTech/BE degree in Computer Science or Information Technology. The degree helps interested students in setting up a sound academic base for an advanced career in Computer Applications.The course of BCA includes database management systems, operating systems, software engineering, web technology and languages such as C, C++, HTML, Java etc. The fees for BCA generally ranges from INR 37,500 to 5 lakh. The minimum and most important eligibility criteria for BCA followed across all colleges is 45 per cent marks in Class 12 or equivalent examination. There are no subject level restrictions for pursuing BCA as students with any subjects in Class 11 and 12 can apply for BCA unlike BTech.
+
+<b>Specialisations in BCA</b>
+Internet Technologies
+Animation
+Network Systems
+Programming Languages (C++, JAVA, etc.)
+Systems Analysis
+Music and Video Processing
+Management Information System (MIS)
+Accounting Application
+
+<b>Eligibility Criteria</b>
+To pursue a BCA programme, one need not have Physics, Chemistry and Maths as subjects in Class 12. In fact, candidates who have pursued Arts or Commerce in class XII can also join the course.
+
+<b>Entrance Exams</b>
+Management Aptitude Test (BU MAT)
+Sri Sathya Sai Institute of Higher Learning Admissions Test (SSSIHLAT)
+RAMA University Entrance Test (RUET)
+Indraprastha University  Common Entrance Test (IPU-CET)
+Symbiosis Entrance Test (SET)
+North Maharashtra University Undergraduate Common Entrance Test (NMU UG CET)
+Gitam Science Admissions Test (GSAT)
+Lucknow University Computer Science Admission Test (LUCSAT)
+AIMA UGAT
+</string>
+
+    <string name="BDesign"><b>Bachelor of Design</b> BDesign is an established degree in design field at undergraduate level. B.Des degree is a full-time four-year course offered in various specialisations such as Fashion Designing, Interior Designing, Accessory Designing, Textile Designing and much more. Over the years, the BDes degree has evolved and now offered in various design specialisations such as Graphic Designing, Multimedia Designing, VFX Design, Visual Communication, and Game Designing. This broadens the scope of BDesign degree with career options, opportunities in various industries as well as new technology learning. The course curriculum comprises of CAD, CAM, product development, marketing, specialisation specific subjects, vocational subjects, elective subjects as well as personality and skills development subjects. Students who pursue B.Des course get exposure of the design industry with internships, events, exhibitions at national as well as international level.
+
+<b>Specialisations in B.Design</b>
+Fashion Design
+Ceramic and Glass Design
+Leather Design
+Exhibition Design
+Accessory Design
+Film and Video Communication
+Textile Design
+Furniture and Interior Design
+Knitwear Design
+Graphic Design
+Fashion Communication
+Product Design
+Animation Film Design
+Communication Design
+Industrial Design
+Visual Communication
+Lifestyle and Accessory Design
+Footwear Designs and Production
+
+<b>Eligibility Criteria</b>
+Students who have passed Class 12th or equivalent qualifying examination can pursue the BDes course.
+Moreover, there is no restriction of stream at 10+2 level therefore; students can pursue the course irrespective of streams i.e. Science, Commerce, Arts and Humanities.
+
+<b>Entrance Exams</b>
+Undergraduate Common Entrance Exam for Design (UCEED)
+National Institute of Design Entrance Exam (NID DAT)
+Footwear Design and Development Institute All India Selection Test (FDDI AIST)
+Symbiosis Entrance Exam for Design (SEED)
+School of Fashion Technology Common Entrance Test (SOFT CET)
+Unitedworld Institute of Design, Design Aptitude Test (UID DAT)
+
+</string>
+    <string name="MBBS"><b>MBBS (Bachelor of Medicine, Bachelor of Surgery)</b> An MBBS degree is an undergraduate course for aspirants who want to fulfil their dream of becoming a doctor. It is a professional degree in medical science. After completing the MBBS course and obtaining the degree, students would be qualified as medical practitioners or doctors. MBBS course is the dream career choice for students across India.
+
+<b>Specialisations in MBBS</b>
+Medicine
+General Surgery
+Cardiology
+Paediatrics
+Oncology
+Nephrology
+
+<b>Eligibilty Criteria</b>
+Candidates must have passed Class 12/higher secondary/pre-university qualifying examination with Science subjects i.e. Physics, Chemistry, and Zoology/Botany. They also must have studied English as the main subject as a criterion for qualifying examination.
+Candidates also need to fulfil the age limit criteria i.e. they must have completed 17 years of age at the time of admissions
+There are additional eligibility conditions as mentioned by the regulatory authorities for MBBS i.e. Medical Council of India (MCI).
+
+<b>Entrance Exams</b>
+NEET conducted by National Testing Agency (NTA)
+NEET PG conducted by National Board of Examinations (NBE)
+NEET MDS conducted by NBE
+AIAPGET conducted by NTA
+FMGE conducted by NBE
+DNB PDCET conducted by NBE	
+NEET SS conducted by NBE
+FET conducted by NBE
+</string>
+
+    <string name="BDS"><b>BDS (Bachelor of Dental Surgery)</b> is the undergraduate degree programme in the dental field. BDS is one of the most sought after courses after MBBS. The duration of the course is 5 years including one year of internship. In India, BDS is regulated by the Dental Council of India where all dentists have to register to practice after the completion of their study. In BDS course, students are taught about dentures, dental problems and surgery. After completing the course, students become eligible to use the title of Dr. before their name. They can practice dentistry after getting a license from DCI.
+
+<b>Specialisations in BDS</b>
+Dental Mechanic
+Surgery
+Periodontics
+Conservative Dentistry
+
+
+
+<b>Eligibility Criteria</b>
+Candidates should have passed 10+2 with subjects such as Chemistry, Physics and Biology
+They must have scored at least 50 percent marks in 12th standard
+Must not be less than 17 years old
+Qualifying NEET is compulsory
+
+<b>Entrance Exams</b>
+National Eligibility cum Entrance Test (NEET)
+</string>
+    <string name="BAMS"><b>BAMS(Bachelor of Ayurvedic Medicine and Surgery)</b> B.A.M.S is an undergraduate degree programme designed to make students familiar with the concepts of Ayurveda and use them for the treatment of patients. BAMS incorporates Ayurveda with the ideas of modern medicines, and students are taught a combination of both as part of the course curriculum.
+Ayurveda is one of the oldest systems of medicine and traces its roots to Vedic times. It is based on the curative properties of herbs, and its treatments are known for the natural elements they contain.
+Considered an alternate treatment method, the Ayurveda medicine system not only cures and prevents an ailment but also reduces the frequency with which diseases enter the human body. It utilises the self-healing system of the body.
+Currently, this alternative method of healing is being accepted by people worldwide. Even the World Health Organisation has provided a worldwide forum for promoting traditional medicine systems such as Ayurveda.
+
+<b>Specialisations in B.A.M.S</b>
+Padartha Vigyan
+Sharir Rachana
+Sharir Kriya
+Swasthavritta
+Rasa Shastra
+Agad Tantra
+Rog Vikriti Vigyan
+Charak Samhita
+Prastuti and Stri Roga
+KaumaraBhritya
+Kayachikitsa
+Shallya Tantra
+Shalakya Tantra
+Charak Samhita
+
+<b>Eligibilty Criteria</b>
+To pursue BAMS course in Indian colleges/ universities, aspirants should clear Class XII in Science stream with PCB (Physics, Chemistry, Biology) subjects.
+In most cases, the minimum percentage of students require in Class XII to be eligible for BAMS course admissions is 50% to 60%. However, the minimum percentage criteria change depending on a college/ university policy.
+Some universities may also have a minimum age bar as their BAMS eligibility criteria.
+
+<b>Entrance Exams</b>
+NEET(National Eligibility cum Entrance Test)
+</string>
+    <string name="BHMS"><b>BHMS</b> is an undergraduate degree programme in Homeopathy medicine. BHMS course duration is 5 years and 6 months including one year of internship. BHMS full form is Bachelor of Homeopathic Medicine and Surgery. The basic eligibility criteria for admission to BHMS is 50% marks in class 12th with subjects such as Physics, Chemistry, and Biology. Institutes provide admission based on the score in entrance exam. BHMS course fees range from INR 12,000 to 30,000 in government colleges. Private colleges charge BHMS fee a little more around INR 1.5 to 2 lakh. Homeopathy offers a great career to students as students get job opportunities in both government and private sectors.
+
+<b>Specialisations in BHMS</b>
+Homeopathic Pharmacy
+Homeopathic Paediatrics
+Homeopathic Psychiatry
+Homeopathic Skin Specialist
+Homeopathic Infertility Specialist
+
+<b>Eligibility Criteria</b>
+Those who have passed their 10+2 exam in Science with the subjects Physics, Chemistry, Biology, and Mathematics with 50% marks are eligible for the course.
+
+<b>Entrance Exams</b>
+NEET(National Eligibility cum Entrance Test)
+</string>
+
+    <string name="BUMS"><b>BUMS(Bachelor of Unani Medicine And Surgery)</b> is an undergraduate medical degree in the field of Unani medicine and surgery. B.U.M.S. is a degree that is considered completed in 5.5 years which involves 4.5 years of main course classes and 1-year internship. B.U.M.S education and training in India is regulated by Central Council of Indian Medicine (CCIM), which is a statutory body under the Department of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy (AYUSH). As per the official notification by CCIM, there are 1,706 seats for B.U.M.S. across the country. Aspiring candidates must fulfill the eligibility criteria of B.U.M.S. The admissions to the course are done through NEET.
+
+<b>Specialisations in BUMS</b>
+There are no specialisations in BUMS itself.
+
+<b>Eligibility Criteria</b>
+Candidates must have passed 10+2 or equivalent examination with Physics, Chemistry, Biology/Biotechnology and English as the core subjects.
+Candidates must have passed Class 10th with Urdu or Arabic or Persian language as a subject, or must have passed the test of Urdu of Class 10th.
+    
+<b>Entrance Exams</b>
+NEET(National Eligibilty cum Entrance Test)
+
+</string>
+
+
+</resources>

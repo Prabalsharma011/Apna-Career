@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Government">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.558"
+        app:srcCompat="@drawable/gov" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="490dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/govt_intro"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/government1"
+                android:textColor="@color/purple_200"
+                android:textSize="20dp"
+                android:textStyle="italic"
+
+                />
+
+            <Button
+                android:id="@+id/UPSC"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="45dp"
+                android:text="UPSC"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/Banking"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Banking"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/Railway"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Railway"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/SSC"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="SSC"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/Defence"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Defence And Armed forces"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/agriculture"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Agriculture"
+                android:textStyle="bold|italic" />
+
+
+            <Button
+                android:id="@+id/TET"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="TET"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/Law"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="Law"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/NABARD"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="NABARD"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/PSU"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="PSU"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

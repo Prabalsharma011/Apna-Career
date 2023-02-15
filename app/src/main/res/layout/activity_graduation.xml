@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Graduation">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:layout_constraintBottom_toTopOf="@+id/scrollview4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.56"
+        app:srcCompat="@drawable/pr" />
+
+    <ScrollView
+        android:id="@+id/scrollview4"
+        android:layout_width="0dp"
+        android:layout_height="490dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/grad_intro"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/graduation"
+                android:textColor="@color/purple_200"
+                android:textSize="20dp"
+
+                />
+
+            <Button
+                android:id="@+id/BTech"
+                android:layout_width="319dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+
+                android:layout_marginTop="45dp"
+
+                android:text="B.Tech/B.E"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BArch"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.Arch"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BA"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.A"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BSc"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="23dp"
+                android:text="B.Sc"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BJMC"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="BJMC"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/Bpharma"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.Pharma"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BBA"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.B.A"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BCA"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.C.A"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BDesign"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.Design"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+
+            <Button
+                android:id="@+id/MBBS"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="M.B.B.S"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BDS"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.D.S"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BAMS"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.A.M.S"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BHMS"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.H.M.S"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+
+            <Button
+                android:id="@+id/BUMS"
+                android:layout_width="322dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="20dp"
+                android:text="B.U.M.S"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold|italic" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

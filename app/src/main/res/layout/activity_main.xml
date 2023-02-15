@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_graduation"
+        android:layout_width="246dp"
+        android:layout_height="48dp"
+        android:text="Graduation"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btn_govt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="400dp"
+        app:layout_constraintVertical_bias="0.859" />
+
+    <Button
+        android:id="@+id/btn_govt"
+        android:layout_width="248dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="280dp"
+        android:text="Government "
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+
+        app:layout_constraintTop_toBottomOf="@id/btn_graduation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+            android:id="@+id/youtube_player_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:autoPlay="true"
+            app:videoId="LVFQu_piWsE" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/searchedit"
+        android:layout_width="234dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+
+        android:minHeight="48dp"
+        android:paddingRight="12dp"
+
+        android:text="Search"
+        android:textColor="#AFA1A1"
+        android:textColorHint="#817777"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonsearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="12dp"
+        android:padding="5dp"
+        android:text="Ok"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.109"
+        app:layout_constraintStart_toEndOf="@+id/searchedit"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

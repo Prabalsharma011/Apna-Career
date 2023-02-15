@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754313652020",
+    "project_id": "apna-career",
+    "storage_bucket": "apna-career.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754313652020:android:736ef7e95b70537ec6a761",
+        "android_client_info": {
+          "package_name": "com.myfirstapp.apnacareer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754313652020-k0qgq6iemigggnuu82kfhb46picst40o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHECx6Cj-jTldLpXHNao_ViSKCILuyy3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754313652020-k0qgq6iemigggnuu82kfhb46picst40o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
